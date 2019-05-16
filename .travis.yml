@@ -9,3 +9,4 @@ install:
 
 script:
 - pub run test
+
